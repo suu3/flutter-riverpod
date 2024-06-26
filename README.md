@@ -1,4 +1,4 @@
-# flutter_riverpod
+# flutter_riverpod_example
 
 A new Flutter project.
 
